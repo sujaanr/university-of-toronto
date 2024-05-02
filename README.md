@@ -1,4 +1,4 @@
-# UofT Scrapers [![PyPI version](https://badge.fury.io/py/uoftscrapers.svg)](https://badge.fury.io/py/uoftscrapers)
+# University of Toronto - Web Scraper
 
 This is a library of scrapers for various University of Toronto websites.
 
